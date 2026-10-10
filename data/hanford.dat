@@ -1,0 +1,15 @@
+Hanford data: skip=6
+co= county   
+x = index of exposure 
+y = cancer mortality per 100,000 person years 
+co       x      y
+
+Clatsop 8.34   210.3
+Columbia 6.41   177.9
+Gilliam 3.41  129.9
+Hood_River 3.83  162.2
+Morrow 2.57  130.1
+Portland 11.64  207.5
+Sherman  1.25  113.5
+Umatilla 2.49  147.1
+Wasco 1.62 137.5

@@ -1,0 +1,10 @@
+ar.sim _ function(n,phi,sigma=1){
+   p_ length(phi)
+   x_ NULL
+   x[1:p] _ 0
+   for (i in (p+1):(n+50)){
+     x[i] _ sum(phi*x[(i-1):(i-p)]) + rnorm(1)*sigma
+   }
+   return(x[51:(n+50)])
+}
+

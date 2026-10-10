@@ -1,0 +1,14 @@
+Information on the planets: skip=5
+planet      mean
+          distance    diameter      mass      rotation revolution  moons
+          (10^6miles) (10^3miles)  (earth=1)   (hours)  (days)  
+(sun)       0         866         330,000     600       0          9
+Mercury    37         3           0.05        2112      0.24       0
+Venus      67         7.7         0.8         600       0.62       0
+Earth      93         7.9         1           24        1          1
+Mars       142        4.2         0.11        24.6      1.88       2
+Jupiter    483        88          318         10        12        12
+Saturn     886        75          95          10.2      29         9
+Uranus     1780       31          15          10.8      84         5
+Neptune    2790       33          17          15.8      165        2
+Pluto      3670       3.6         0.1         -1        248        0

@@ -1,0 +1,8 @@
+# editor backups of the original R scripts
+R/*.$$$
+R/*.$R
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
